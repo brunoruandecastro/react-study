@@ -28,6 +28,39 @@
   color: #61dafb;
 }
 
+.estiloContador {
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  text-align: center;
+  margin: 50px auto;
+  padding: 20px;
+  border: 2px solid #4caf50;
+  border-radius: 10px;
+  max-width: 300px;
+  background-color: #4caf50;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+}
+
+.hrStyle {
+  margin: 10px auto;
+  width: 50%;
+  border-color: #fff;
+}
+
+.h1Style {
+  margin: 0 0 10px 0;
+}
+
+.h2Style {
+  margin: 0;
+}
+
+.h2Style {
+  margin: "0";
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
